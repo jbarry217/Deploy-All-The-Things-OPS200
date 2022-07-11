@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://desolate-ridge-33540.herokuapp.com/",
+  "change_calculator": "https://change-calculator-web102.herokuapp.com/",
+  "mortgage_calculator": "https://mortgage-calculator-react-100.herokuapp.com/",
+  "top_spots": "https://san-diego-top-spots-web102.herokuapp.com/",
+  "vstda": "https://very-simple-to-do-app.herokuapp.com/"
 }
